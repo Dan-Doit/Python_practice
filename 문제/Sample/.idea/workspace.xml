@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f58d428-a787-47cf-8594-da1f291193a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/Dan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Cracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/4_keyboard_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/5_frame of second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/6_text in game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/Aoid_Peppa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/Collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/backgrounp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/chr1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/daddy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/en1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 기본/exam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 기본/사운품.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 기본/예외처리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 기본/좌표.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 함수 및 클래스/Theater_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 함수 및 클래스/byme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 함수 및 클래스/os 함수와 time함수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 함수 및 클래스/pass 와 super.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../파이썬 함수 및 클래스/pass 함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../49.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CSS_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/3_main_sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../FirstGame/pyGame_basic/3_main_sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HTML_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVAScript_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JAVA_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_Login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_Login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_about_intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_exam_CSS.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_exam_HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_exam_JAVA.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_exam_JAVAScript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_exam_Python.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_notice_data.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_q&amp;a_ask.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_q&amp;a_ask_main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_sign-up.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../on-go_sign-up_main.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../qnxm.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../그리디 문제/Greedy Q1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../그리디 문제/nonsence won.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hVHzj5OeSzHmGXxGSh1SgHO3lZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f58d428-a787-47cf-8594-da1f291193a7" name="Default Changelist" comment="" />
+      <created>1600089603892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600089603892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
